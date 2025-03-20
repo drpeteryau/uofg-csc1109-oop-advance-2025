@@ -1,0 +1,6 @@
+Account: 123456789, Balance: $1000.0
+Cloned account created.
+Withdrawn: $300.0
+Account: 123456789, Balance: $700.0
+Original account remains unchanged:
+Account: 123456789, Balance: $1000.0
